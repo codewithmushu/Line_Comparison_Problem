@@ -12,7 +12,8 @@ namespace LineComparison
         {
             Console.WriteLine(" Welcome to line comparison computation program.");
 
-            LineLength.CalcLengthofLine();
+            //LineLength.CalcLengthofLine();
+            LineEquality.CalcEqualityofLine();
         }
     }
 }
